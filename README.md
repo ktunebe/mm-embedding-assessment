@@ -2,9 +2,9 @@
 
 ## This is a test run of the MDN assessment on embedding pictures and frames into HTML for different viewport sizes.
 
--This was deployed so that the author could test the HTML on different browsers, including a mobile browser.
--It enables the user to see the change in photo sizes as the viewport size changes.
--I learned that I was able to achieve a functional result.
+- This was deployed so that the author could test the HTML on different browsers, including a mobile browser.
+- It enables the user to see the change in photo sizes as the viewport size changes.
+- I learned that I was able to achieve a functional result.
 
 ## Installation
 
