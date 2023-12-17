@@ -8,15 +8,15 @@
 
 ## Installation
 
--N/A
+N/A
 
 ## Usage
 
--The page contains an embedded YouTube video and multiple photos with links to Mozilla pages, all provided by the MDN Web Docs Guide.
+The page contains an embedded YouTube video and multiple photos with links to Mozilla pages, all provided by the MDN Web Docs Guide.
 
 ## Credits
 
--MDN Web Docs Mozilla Splash Page Assesment https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
+MDN Web Docs Mozilla Splash Page Assesment https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page
 
 ## License
 
